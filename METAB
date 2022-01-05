@@ -1,0 +1,22 @@
+_G.Bin = true
+while _G.Bin do
+    wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","5104356969","5104554099")
+wait(0.2)
+
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","8017905624","8017903383")
+wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","5104364229","5104389242")
+wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","5104361445","5104386472")
+wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","7592201637","7592196210")
+wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","7592201637","7592196210")
+wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","7091209852","7091683056")
+wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","7091209852","7091683056")
+wait(0.2)
+game:GetService("ReplicatedStorage").RemoteEvents.Clothes:FireServer("outfit","7091209852","7091683056")
+end
